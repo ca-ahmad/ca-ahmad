@@ -1,8 +1,10 @@
 ## Hello Ahmad Here ,,, 
 
-Functional Consultant specializing in Odoo ERP and business process optimization, with more than 15 years of hands-on experience in management and finance, including leadership responsibilities as Head of Accounting and Financial Management.
+Results-driven ERP Consultant and Financial Systems Expert with over 15 years of extensive hands-on experience spanning financial management, corporate accounting, and enterprise software implementation. 
 
-I act as a bridge between business stakeholders and technical teams, translating business requirements into practical Odoo ERP solutions. My expertise includes functional consulting, business process optimization, system implementation, integration, AI and automation, and user training to improve operational efficiency and support sustainable business growth.
+A natural bridge between business stakeholders and technical teams, specializing in translating complex accounting workflows into scalable Odoo ERP and financial system solutions (Sage 50 / Peachtree). Proven expertise in full-lifecycle ERP implementations, business process re-engineering (BPR), electronic invoicing compliance (UBL 2.1, JoFotara, ZATCA), financial data analytics, and system optimization. 
+
+Dedicated to driving operational efficiency, empowering digital transformation, and delivering high-impact technological solutions aligned with sound financial principles.
 
 ## Top Skills
 
