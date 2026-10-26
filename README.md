@@ -1,6 +1,6 @@
 ## Hello Ahmad Here ,,, 
 
-Financial Systems Analyst | Former Chief Accountant | Bridging Finance & Accounting with Enterprise Systems & Client Advisory
+Financial Systems Analyst | Former Chief Accountant | Bridging Finance & Technology Through ERP Solutions & Client Advisory
 
 Results-driven Financial Systems Analyst and former Chief Accountant with over 15 years of comprehensive, hands-on experience in corporate accounting, financial control, and enterprise software optimization.
 
