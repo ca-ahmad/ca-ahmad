@@ -19,6 +19,15 @@ Proven track record of managing multi-entity financial operations, consolidated 
 - Custom Financial Dashboards & Executive Reporting
 - Internal Controls, Budgeting, & Tax Compliance
 
+## My Digital Products
+
+Digital innovation rooted in deep field expertise! 
+
+I present to you my specialized digital products, tailor-made to provide you with integrated administrative and accounting solutions that elevate your enterprise to new heights.
+
+- Techno-ERP
+- Techno-Cloud
+
 ## Accounting & ERP Systems 
 
 Odoo ERP | Sage 50 | Peachtree | X-per Cloud ERP | Manager.io 
