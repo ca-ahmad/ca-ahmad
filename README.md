@@ -22,4 +22,6 @@ Proven track record of managing multi-entity financial operations, consolidated 
 - X-per Cloud ERP
 - Manager Cloud 
 
-Dedicated to helping organizations transform their financial operations, reduce month-end closing cycles, and maximize accounting system efficiency.
+## Objective ,,, 
+
+"My objective is to design tailored accounting systems that align with the specific nature of specialized business activities, ensuring proper internal control over financial operations and safeguarding assets, while accurately measuring the operating results and financial position of enterprises engaged in these specialized activities."
