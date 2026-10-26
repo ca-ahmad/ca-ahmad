@@ -1,26 +1,25 @@
 ## Hello Ahmad Here ,,, 
 
-Results-driven ERP Consultant and Financial Systems Expert with over 15 years of extensive hands-on experience spanning financial management, corporate accounting, and enterprise software implementation. 
+Financial Systems Analyst | Former Chief Accountant | Bridging Finance & Accounting with Enterprise Systems & Client Advisory
 
-A natural bridge between business stakeholders and technical teams, specializing in translating complex accounting workflows into scalable Odoo ERP and financial system solutions (Sage 50 / Peachtree). Proven expertise in full-lifecycle ERP implementations, business process re-engineering (BPR), electronic invoicing compliance (UBL 2.1, JoFotara, ZATCA), financial data analytics, and system optimization. 
+Results-driven Financial Systems Analyst and former Chief Accountant with over 15 years of comprehensive, hands-on experience in corporate accounting, financial control, and enterprise software optimization.
 
-Dedicated to driving operational efficiency, empowering digital transformation, and delivering high-impact technological solutions aligned with sound financial principles.
-
-## Top Skills
-
-Odoo ERP • Client Training • Financial & Business Advisory • Digital Transformation • AI & Process Optimization
+Proven track record of managing multi-entity financial operations, consolidated reporting, and cash flow strategies, seamless transitioning into a trusted advisory role for clients. Specialized in bridging the gap between client accounting teams and technical software providers to enhance system efficiency, automate financial workflows, and enforce internal controls.
 
 ## Areas of Experience
 
-- Odoo ERP Functional Consulting & Implementation
-- Business Process Analysis & Optimization
-- Accounting & Financial Management
-- System Integration & Workflow Automation
-- User Training, Coaching & Knowledge Transfer
-- AI-Driven Business Process Improvement
+- Financial Systems Analysis & Optimization
+- Multi-Company Accounting & Financial Consolidation
+- Client Advisory & Business Process Streamlining
+- User Acceptance Testing (UAT) & Data Migration
+- Custom Financial Dashboards & Executive Reporting
+- Internal Controls, Budgeting, & Tax Compliance
 
-📂 Projects
+## Accounting & ERP Systems 
 
-I'm working toward building a public portfolio of practical business technology projects, ERP solutions, workflow documentation, and AI-powered applications
+- Odoo ERP System | Community & Enterprise
+- Sage 50 & Peachtree
+- X-per Cloud ERP
+- Manager Cloud 
 
-Bridging business needs and technology to build better business solutions.
+Dedicated to helping organizations transform their financial operations, reduce month-end closing cycles, and maximize accounting system efficiency.
