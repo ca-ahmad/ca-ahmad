@@ -1,4 +1,4 @@
-# Financial Systems Analyst | ERP Functional Consultant
+# Financial Systems Analyst
 
 Financial Systems Analyst and former Chief Accountant with over 15 years of hands-on experience in corporate accounting, financial control, and enterprise systems optimization.
 
