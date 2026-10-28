@@ -1,4 +1,4 @@
-# Financial Systems Analyst
+# OVERVIEW
 
 Founder at blines of Accounting Solutions, acts a Financial Systems Analyst and former Chief Accountant with over 15 years of hands-on experience in Enterprise Accounting, Financial Controls, and enterprise systems optimization.
 
