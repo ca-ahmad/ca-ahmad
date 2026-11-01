@@ -1,18 +1,19 @@
 # OVERVIEW
 
-Financial Systems Analyst and former Chief Accountant with over 15 years of hands-on experience in Enterprise Accounting, Financial Controls, and enterprise systems optimization.
+Trainer | Accounting, Business Management & Information Technology
 
-Specialized in bridging finance and technology by translating business and accounting requirements into practical ERP solutions. Experienced in multi-company accounting, financial consolidation, internal controls, reporting optimization, workflow automation, and client advisory.
+Professional Trainer with over 15 years of practical experience in Accounting, Business Management and Information Technology. extensive hands-on experience in corporate financial operations, accounting systems, and business processes with independent professional training experience since 2018. Previously served as Group Chief Accountant in Qatar and Accountant at an auditing firm in Jordan. 
 
-## Areas of Experience
+Specialized in delivering practical training, providing professional guidance on accounting and ERP applications, improving business processes, and supporting digital solutions. Focused on knowledge transfer, developing practical skills, and connecting theoretical concepts with real-world business applications.
 
-- Financial Systems Analysis & Optimization
-- Multi-Company Accounting & Financial Consolidation
-- ERP Functional Consulting & Implementation
-- Financial Controls & Workflow Optimization
-- UAT, Data Migration & System Integration
-- Financial Reporting & Executive Dashboards
+## What Do I Offer?
 
-Regards,,, 
+- Deliver professional training in Accounting, Business Management, and Information Technology.
+- Provide specialized guidance on accounting Software, ERP System, Business workflows, and business processes optimization.
+- Support organizations in identifying business requirements and selecting appropriate technology solutions
+- Participate in system implementation, data migration, user acceptance testing (UAT), reporting, and workflow optimization.
+- Deliver customized training programs and knowledge transfer to individuals, employees, and business teams.
+
+# Regards,,, 
 
 Ahmad Al Majdoba 
