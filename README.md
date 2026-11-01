@@ -1,6 +1,6 @@
-# OVERVIEW
+# Trainer 
 
-Trainer | Accounting, Business Management & Information Technology
+OVERVIEW ,,, 
 
 Professional Trainer with over 15 years of practical experience in Accounting, Business Management and Information Technology. extensive hands-on experience in corporate financial operations, accounting systems, and business processes with independent professional training experience since 2018. Previously served as Group Chief Accountant in Qatar and Accountant at an auditing firm in Jordan. 
 
