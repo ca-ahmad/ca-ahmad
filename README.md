@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="assets/header.png"
-    width="100%"
-    alt="Company Header"
-  />
-</p>
-
 # OVERVIEW
 
 A highly accomplished, results-driven Head of Accounting and Financial Management with more than 15 years of intensive hands on experience in Management and Finance.
